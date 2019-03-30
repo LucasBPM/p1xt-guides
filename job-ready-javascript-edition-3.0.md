@@ -40,7 +40,6 @@ Precalculus
 ## Tier 1 - The Basics
 **Goal**: Become comfortable with HTML, CSS, JavaScript and SQL basics.
 
-- [ ]  Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) 
 - [ ]  Course: [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) 
 - [ ]  Course: [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) 
 
