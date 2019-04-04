@@ -3,7 +3,6 @@
 A guide primarily focused on Frontend development, but including just enough of an introduction to Backend to enable an understanding of the "entire process" to prepare for productive entry to a Full Stack team as a confident and capable Frontend Developer.
 
 - [Tier 0 - Prep](#tier-0---prep)
-- [Tier 1 - The Basics](#tier-1---the-basics)
 - [Tier 2 - Intro to Programming](#tier-2---intro-to-programming)
 - [Tier 3 - Add Complexity](#tier-3---add-complexity)
 - [Tier 4 - Practice](#tier-4---practice)
@@ -36,11 +35,6 @@ Precalculus
 - [ ]  Project: take a quick read through the [FAQ for this guide](#faq-for-this-guide) at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
 
 ---
-
-## Tier 1 - The Basics
-**Goal**: Become comfortable with HTML, CSS, JavaScript and SQL basics.
-
-- [ ]  Course: [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) 
 
 ## Tier 2 - Intro to Programming 
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
